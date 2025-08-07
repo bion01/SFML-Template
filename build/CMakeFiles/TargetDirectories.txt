@@ -1,0 +1,3 @@
+/home/bion/projects/SFML-Template/build/CMakeFiles/main.dir
+/home/bion/projects/SFML-Template/build/CMakeFiles/edit_cache.dir
+/home/bion/projects/SFML-Template/build/CMakeFiles/rebuild_cache.dir
