@@ -3,9 +3,14 @@ project(SFMLExample)
 
 set(CMAKE_CXX_STANDARD 17)
 
-find_package(SFML 2.5 COMPONENTS graphics window system REQUIRED)
+# Set path to SFML directory
+set(SFML_ROOT "${CMAKE_SOURCE_DIR}/SFML")
 
-add_executable(main main.cpp)
+# Add SFML include and lib directories
+include_directories("${SFML_ROOT}/include")
+link_directories("${SFML_ROOT}/lib")
 
-target_link_libraries(main sfml-graphics sfml-window sfml-system)
+add_executable(play main.cpp)
+
+target_link_libraries(play sfml-graphics sfml-window sfml-system sfml-audio)
 

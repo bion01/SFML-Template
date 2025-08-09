@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/play.dir/main.cpp.o -o play   -L/home/bion/projects/SFML-Template/SFML/lib  -Wl,-rpath,/home/bion/projects/SFML-Template/SFML/lib -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio 

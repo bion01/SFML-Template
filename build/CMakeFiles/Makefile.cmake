@@ -11,11 +11,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.25.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.25.1/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.25.1/CMakeSystem.cmake"
-  "/usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfig.cmake"
-  "/usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigDependencies.cmake"
-  "/usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigVersion.cmake"
-  "/usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets-none.cmake"
-  "/usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets.cmake"
   "/usr/share/cmake-3.25/Modules/CMakeCCompiler.cmake.in"
   "/usr/share/cmake-3.25/Modules/CMakeCCompilerABI.c"
   "/usr/share/cmake-3.25/Modules/CMakeCInformation.cmake"
@@ -128,5 +123,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/main.dir/DependInfo.cmake"
+  "CMakeFiles/play.dir/DependInfo.cmake"
   )
